@@ -21,9 +21,9 @@
 <tr><td><a href="https://github.com/maryzvrz/2023-CS-Python">Zavarzaeva Marina</a</td>
     <td>✔️</td><td>✔️</td><td>✔️</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/snegovik181220/2023-CS-Python">Zima Kirill</a</td>
-    <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>✔️</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/Zimens-Ksenia/2023-CS-Python">Zimens Ksenia</a</td>
-    <td>❌</td><td>❌</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/wicktosha1/2023-CS-Python">Kurulenko Viktorya</a</td>
     <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/12345678919aa/2023-CS-Python">Pezhemskaya Lika</a</td>
@@ -33,7 +33,7 @@
 <tr><td><a href="https://github.com/qquenyt/2023-CS-Python">Plichko Daria</a</td>
     <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr> 
 <tr><td><a href="https://github.com/MariaPobokova/2023-CS-Python">Pobokova Maria</a</td>
-    <td>✔️</td><td>❌</td><td>❌</td><td>❌</td></tr>
+    <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/perchik4u/2023-CS-Python">Redchenko Michail</a</td>
     <td>✔️</td><td>✔️</td><td>❌</td><td>❌</td></tr>
 <tr><td><a href="https://github.com/LemonSkvid/2023-CS-Python">Sanarov Bogdan</a</td>
