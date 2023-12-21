@@ -20,9 +20,9 @@ def test_prefix_evaluate(equation: str, result: int):
 @pytest.mark.parametrize(
     ("infix_equation", "prefix_equation"),
     [
-        ("1 + 2", ['+', '1', '2']),
-        ("1 * 2", ['*', '1', '2']),
-        ("1 + ( 2 - 3 ) * 2", ['+', '1', '*', '-', '2', '3', '2']),
+        ("1 + 2", ["+", "1", "2"]),
+        ("1 * 2", ["*", "1", "2"]),
+        ("1 + ( 2 - 3 ) * 2", ["+", "1", "*", "-", "2", "3", "2"]),
     ],
 )
 def test_to_prefix(infix_equation: str, prefix_equation: str):
